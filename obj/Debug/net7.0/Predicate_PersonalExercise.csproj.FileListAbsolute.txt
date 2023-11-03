@@ -1,0 +1,14 @@
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\bin\Debug\net7.0\Predicate_PersonalExercise.exe
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\bin\Debug\net7.0\Predicate_PersonalExercise.deps.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\bin\Debug\net7.0\Predicate_PersonalExercise.runtimeconfig.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\bin\Debug\net7.0\Predicate_PersonalExercise.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\bin\Debug\net7.0\Predicate_PersonalExercise.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.AssemblyInfoInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.AssemblyInfo.cs
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.csproj.CoreCompileInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\refint\Predicate_PersonalExercise.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\Predicate_PersonalExercise.genruntimeconfig.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\Predicate_PersonalExercise\Predicate_PersonalExercise\obj\Debug\net7.0\ref\Predicate_PersonalExercise.dll
